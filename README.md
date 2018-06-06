@@ -5,4 +5,4 @@
 
 40523240:https://github.com/s40523240/cd-2018
 
-齒輪:https://s40523201.github.io/cd2018/blog/
+漸開線齒輪:https://s40523201.github.io/cd2018/blog/
