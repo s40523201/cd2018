@@ -4,3 +4,5 @@
 40523203:https://github.com/s40523203/cd2018-1
 
 40523240:https://github.com/s40523240/cd-2018
+
+齒輪:https://s40523201.github.io/cd2018/blog/
