@@ -1,5 +1,5 @@
 # cd2018
-組員倉儲連結:
+組員倉儲連結:https://legacy.gitbook.com/book/s40523203/2b-group2/details
 
 40523203:https://github.com/s40523203/cd2018-1
 
